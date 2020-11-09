@@ -1,0 +1,2 @@
+# GitTest
+to learn Git
